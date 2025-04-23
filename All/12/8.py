@@ -27,3 +27,5 @@ while '11' in a:
     else: a = a.replace('11', '3')
     
 print(sum(int(el) for el in a)) # Выведим сумму цифр получившегося числа (строки)
+
+# ОТВЕТ: 34
